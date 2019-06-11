@@ -1,0 +1,10 @@
+﻿2019-06-10T21:59:47.1065423+01:00;Thread#1;Info;Reading test run result from Json file "C:\Users\raj.ghedia\AppData\Local\Temp\tmp3F9C.tmp".
+2019-06-10T21:59:47.1105422+01:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\raj.ghedia\AppData\Local\Temp\tmp3F9C.tmp"
+2019-06-10T21:59:47.1105422+01:00;Thread#1;Info;Deserializing test run result
+2019-06-10T21:59:47.6545448+01:00;Thread#1;Info;Successfully deserialized test run result
+2019-06-10T21:59:47.6545448+01:00;Thread#1;Info;Loading test run result
+2019-06-10T21:59:47.6755377+01:00;Thread#1;Info;Successfully loaded test run result
+2019-06-10T21:59:47.6855399+01:00;Thread#1;Info;creating 1 report(s)
+2019-06-10T21:59:47.6855399+01:00;Thread#1;Info;generate Report ReportTemplate.cshtml
+2019-06-10T21:59:48.7205392+01:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

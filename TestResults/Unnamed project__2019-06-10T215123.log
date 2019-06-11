@@ -1,0 +1,140 @@
+﻿2019-06-10T21:51:23.0687319+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-10T21:51:23.0687319+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.347 in Framework clr40 in x86 mode execution started
+2019-06-10T21:51:23.0687319+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-10T21:51:23.1107320+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\WTTRAJ.dll
+2019-06-10T21:51:23.1107320+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\raj.ghedia\Source\Repos\WTTRAJ\TestResults" (default)
+2019-06-10T21:51:23.1107320+01:00;VSTestExecutionThread;Info;Profile: 
+2019-06-10T21:51:23.1297321+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\TestResults\Unnamed project__2019-06-10T215123.log
+2019-06-10T21:51:23.1317317+01:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-10T21:51:23.1387451+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-10T21:51:23.1437300+01:00;Thread#13;Info;Checking license
+2019-06-10T21:51:23.1437300+01:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-10T21:51:23.1447321+01:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-10T21:51:23.1617692+01:00;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-06-10T21:51:30.1632412+01:00;Thread#13;Info;Evaluation delay finished.
+2019-06-10T21:51:30.1731205+01:00;Thread#13;Info;License check completed
+2019-06-10T21:51:30.1731205+01:00;Thread#13;Info;starting test run
+2019-06-10T21:51:30.1861209+01:00;Thread#13;Info;Discovering target: Default
+2019-06-10T21:51:30.1861209+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\WTTRAJ.dll
+2019-06-10T21:51:30.5400820+01:00:Appdomain Disposed
+2019-06-10T21:51:30.5400820+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\WTTRAJ.dll
+2019-06-10T21:51:30.5400820+01:00:Test Suite Dump
+2019-06-10T21:51:30.5421097+01:00:#0: Unnamed project/ - 
+2019-06-10T21:51:30.5421097+01:00:#1: Default - 
+2019-06-10T21:51:30.5421097+01:00:#2: WTTRAJ - 
+2019-06-10T21:51:30.5421097+01:00:#3: SpecFlowFeature1 - 
+2019-06-10T21:51:30.5760816+01:00:#4: Chrome WTW - TestAssembly:WTTRAJ/Feature:SpecFlowFeature1/Scenario:Chrome+WTW
+2019-06-10T21:51:30.5760816+01:00:#5: Sort by Date - TestAssembly:WTTRAJ/Feature:SpecFlowFeature1/Scenario:Sort+by+Date
+2019-06-10T21:51:30.5760816+01:00:End: Test Suite Dump
+2019-06-10T21:51:30.5970807+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-10T21:51:30.5990814+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-10T21:51:30.5990814+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-10T21:51:30.6030972+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-10T21:51:30.6030972+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-10T21:51:30.6030972+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-10T21:51:30.6030972+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-10T21:51:30.6040798+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-10T21:51:30.6050796+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-10T21:51:30.6070797+01:00:Thread #0: creating new test thread executor for WTTRAJ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-10T21:51:30.6090798+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-10T21:51:30.6090798+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-10T21:51:30.6090798+01:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-10T21:51:30.6690815+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-10T21:51:30.7871185+01:00:Thread#0:T:-> Using app.config
+2019-06-10T21:51:30.8500849+01:00:Thread#0:B:Given I have enter the Willis Towers watson web site
+2019-06-10T21:51:36.4871655+01:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnterTheWillisTowersWatsonWebSite() (5.5s)
+2019-06-10T21:51:36.4891688+01:00:Thread#0:B:And I have checked it on english
+2019-06-10T21:51:36.5661627+01:00:Thread#0:T:error: No frame element found with name or id defaultpreferencemanager
+2019-06-10T21:51:36.5661627+01:00:Thread#0:B:When I press enter test
+2019-06-10T21:51:36.5661627+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:36.5671633+01:00:Thread#0:B:Then I should see the results on screen
+2019-06-10T21:51:36.5671633+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:36.5891648+01:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-10T21:51:36.5891648+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-10T21:51:36.5891648+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-10T21:51:36.5891648+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-10T21:51:36.5891648+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-10T21:51:36.5891648+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-10T21:51:36.5891648+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-10T21:51:36.5891648+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-10T21:51:36.5891648+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-10T21:51:36.5891648+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-10T21:51:36.6031653+01:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 5.9340838 seconds
+2019-06-10T21:51:36.6051648+01:00:Thread#0: Test #4/1 is started on thread #0
+2019-06-10T21:51:36.6051648+01:00:Thread#0:B:Given I have enter the Willis Towers watson web site
+2019-06-10T21:51:42.7095008+01:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnterTheWillisTowersWatsonWebSite() (6.1s)
+2019-06-10T21:51:42.7095008+01:00:Thread#0:B:And I have checked it on english
+2019-06-10T21:51:42.7395005+01:00:Thread#0:T:error: No frame element found with name or id defaultpreferencemanager
+2019-06-10T21:51:42.7395005+01:00:Thread#0:B:When I press enter test
+2019-06-10T21:51:42.7404996+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:42.7404996+01:00:Thread#0:B:Then I should see the results on screen
+2019-06-10T21:51:42.7404996+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:42.7414980+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-10T21:51:42.7414980+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-10T21:51:42.7414980+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-10T21:51:42.7414980+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-10T21:51:42.7414980+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-10T21:51:42.7414980+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-10T21:51:42.7414980+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-10T21:51:42.7414980+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-10T21:51:42.7414980+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-10T21:51:42.7414980+01:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 6.1363332 seconds
+2019-06-10T21:51:42.7424992+01:00:Thread#0: Test #4/2 is started on thread #0
+2019-06-10T21:51:42.7424992+01:00:Thread#0:B:Given I have enter the Willis Towers watson web site
+2019-06-10T21:51:48.7314984+01:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnterTheWillisTowersWatsonWebSite() (6.0s)
+2019-06-10T21:51:48.7314984+01:00:Thread#0:B:And I have checked it on english
+2019-06-10T21:51:48.7594977+01:00:Thread#0:T:error: No frame element found with name or id defaultpreferencemanager
+2019-06-10T21:51:48.7594977+01:00:Thread#0:B:When I press enter test
+2019-06-10T21:51:48.7594977+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:48.7594977+01:00:Thread#0:B:Then I should see the results on screen
+2019-06-10T21:51:48.7594977+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:48.7604967+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-10T21:51:48.7604967+01:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-06-10T21:51:48.7604967+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-10T21:51:48.7604967+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-10T21:51:48.7604967+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-10T21:51:48.7604967+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-10T21:51:48.7604967+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-10T21:51:48.7604967+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-10T21:51:48.7604967+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-10T21:51:48.7604967+01:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 6.0179975 seconds
+2019-06-10T21:51:48.7604967+01:00:Thread#0: Test #5/0 is started on thread #0
+2019-06-10T21:51:48.7614975+01:00:Thread#0:B:Given I am on the result screen
+2019-06-10T21:51:48.7634982+01:00:Thread#0:T:pending: SpecFlowFeature1Steps.GivenIAmOnTheResultScreen()
+2019-06-10T21:51:48.7634982+01:00:Thread#0:B:And I have sorted by date
+2019-06-10T21:51:48.7634982+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:48.7634982+01:00:Thread#0:B:When I use the refine search by function
+2019-06-10T21:51:48.7634982+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:48.7634982+01:00:Thread#0:B:And filier by Transportation
+2019-06-10T21:51:48.7634982+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:48.7645004+01:00:Thread#0:B:Then List of title of all articles in the list is displayed
+2019-06-10T21:51:48.7645004+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:51:48.7694971+01:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-06-10T21:51:48.7694971+01:00:Thread#0:T:  SpecFlowFeature1Steps.GivenIAmOnTheResultScreen()
+2019-06-10T21:51:48.7694971+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-10T21:51:48.7694971+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-10T21:51:48.7694971+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-10T21:51:48.7694971+01:00:Thread#0:Scheduler: No more tests for thread
+2019-06-10T21:51:48.7704959+01:00:Thread#0: Test #5/0 is finished on thread #0 as Pending within 0.0099992 seconds
+2019-06-10T21:51:48.7844969+01:00:Appdomain Disposed
+2019-06-10T21:51:48.7854994+01:00:Trying to cancel thread
+2019-06-10T21:51:48.7854994+01:00:Thread cancelled
+2019-06-10T21:51:48.7924970+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-10T21:51:48.7924970+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-10T21:51:48.7924970+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-10T21:51:48.7964956+01:00;Thread#13;Info;test run finished
+2019-06-10T21:51:48.7964956+01:00;Thread#13;Info;publishing test results
+2019-06-10T21:51:48.8414970+01:00;Thread#13;Info;test results published
+2019-06-10T21:51:48.8424980+01:00;Thread#13;Info;generating reports
+2019-06-10T21:51:48.9364966+01:00;Thread#13;Info;Starting external report generation process
+2019-06-10T21:51:50.9494958+01:00;Thread#13;Info;Successfully generated reports.
+2019-06-10T21:51:50.9514979+01:00;Thread#13;Info;Successfully generated reports
+2019-06-10T21:51:50.9595002+01:00:Total: 2 (test executions: 4)
+2019-06-10T21:51:50.9614989+01:00:Succeeded: 0
+2019-06-10T21:51:50.9614989+01:00:Ignored: 0
+2019-06-10T21:51:50.9624973+01:00:Pending: 1
+2019-06-10T21:51:50.9624973+01:00:Skipped: 0
+2019-06-10T21:51:50.9634973+01:00:Failed: 1
+2019-06-10T21:51:50.9724983+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-10T21:51:50.9724983+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\raj.ghedia\Source\Repos\WTTRAJ\TestResults\Unnamed project__2019-06-10T215123.html'
+========== End of log file ==========

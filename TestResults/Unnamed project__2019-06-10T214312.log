@@ -1,0 +1,79 @@
+﻿2019-06-10T21:43:12.5648485+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-10T21:43:12.5648485+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.347 in Framework clr40 in x86 mode execution started
+2019-06-10T21:43:12.5648485+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-10T21:43:12.6028431+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\WTTRAJ.dll
+2019-06-10T21:43:12.6028431+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\raj.ghedia\Source\Repos\WTTRAJ\TestResults" (default)
+2019-06-10T21:43:12.6028431+01:00;VSTestExecutionThread;Info;Profile: 
+2019-06-10T21:43:12.6228157+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\TestResults\Unnamed project__2019-06-10T214312.log
+2019-06-10T21:43:12.6248120+01:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-10T21:43:12.6308114+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-10T21:43:12.6358442+01:00;Thread#13;Info;Checking license
+2019-06-10T21:43:12.6358442+01:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-10T21:43:12.6368126+01:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-10T21:43:12.6528478+01:00;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-06-10T21:43:23.6544776+01:00;Thread#13;Info;Evaluation delay finished.
+2019-06-10T21:43:23.6654758+01:00;Thread#13;Info;License check completed
+2019-06-10T21:43:23.6654758+01:00;Thread#13;Info;starting test run
+2019-06-10T21:43:23.6765055+01:00;Thread#13;Info;Discovering target: Default
+2019-06-10T21:43:23.6775068+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\WTTRAJ.dll
+2019-06-10T21:43:24.0124702+01:00:Appdomain Disposed
+2019-06-10T21:43:24.0124702+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\raj.ghedia\Source\Repos\WTTRAJ\WTTRAJ\bin\Debug\WTTRAJ.dll
+2019-06-10T21:43:24.0134709+01:00:Test Suite Dump
+2019-06-10T21:43:24.0145062+01:00:#0: Unnamed project/ - 
+2019-06-10T21:43:24.0145062+01:00:#1: Default - 
+2019-06-10T21:43:24.0145062+01:00:#2: WTTRAJ - 
+2019-06-10T21:43:24.0145062+01:00:#3: SpecFlowFeature1 - 
+2019-06-10T21:43:24.0485107+01:00:#4: Chrome WTW - TestAssembly:WTTRAJ/Feature:SpecFlowFeature1/Scenario:Chrome+WTW
+2019-06-10T21:43:24.0485107+01:00:End: Test Suite Dump
+2019-06-10T21:43:24.0695085+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-10T21:43:24.0705067+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-10T21:43:24.0705067+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-10T21:43:24.0745055+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-10T21:43:24.0745055+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-10T21:43:24.0745055+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-10T21:43:24.0745055+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-10T21:43:24.0755063+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-10T21:43:24.0765079+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-10T21:43:24.0785021+01:00:Thread #0: creating new test thread executor for WTTRAJ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-10T21:43:24.0795061+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-10T21:43:24.0805108+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-10T21:43:24.0805108+01:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-10T21:43:24.1385013+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-10T21:43:24.2695219+01:00:Thread#0:T:-> Using app.config
+2019-06-10T21:43:24.3295034+01:00:Thread#0:B:Given I have enter the Willis Towers watson web site
+2019-06-10T21:43:29.6534725+01:00:Thread#0:T:pending: SpecFlowFeature1Steps.GivenIHaveEnterTheWillisTowersWatsonWebSite()
+2019-06-10T21:43:29.6544726+01:00:Thread#0:B:And I have checked it on english
+2019-06-10T21:43:29.6544726+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:43:29.6544726+01:00:Thread#0:B:When I press enter test
+2019-06-10T21:43:29.6554724+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:43:29.6554724+01:00:Thread#0:B:Then I should see the results on screen
+2019-06-10T21:43:29.6554724+01:00:Thread#0:T:skipped because of previous errors
+2019-06-10T21:43:29.6674717+01:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-06-10T21:43:29.6674717+01:00:Thread#0:T:  SpecFlowFeature1Steps.GivenIHaveEnterTheWillisTowersWatsonWebSite()
+2019-06-10T21:43:29.6734723+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-10T21:43:29.6734723+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-10T21:43:29.6734723+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-10T21:43:29.6734723+01:00:Thread#0:Scheduler: No more tests for thread
+2019-06-10T21:43:29.6834725+01:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 5.5439756 seconds
+2019-06-10T21:43:29.6994707+01:00:Appdomain Disposed
+2019-06-10T21:43:29.7014732+01:00:Trying to cancel thread
+2019-06-10T21:43:29.7014732+01:00:Thread cancelled
+2019-06-10T21:43:29.7074701+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-10T21:43:29.7074701+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-10T21:43:29.7074701+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-10T21:43:29.7084703+01:00;Thread#13;Info;test run finished
+2019-06-10T21:43:29.7084703+01:00;Thread#13;Info;publishing test results
+2019-06-10T21:43:29.7574724+01:00;Thread#13;Info;test results published
+2019-06-10T21:43:29.7574724+01:00;Thread#13;Info;generating reports
+2019-06-10T21:43:29.8374713+01:00;Thread#13;Info;Starting external report generation process
+2019-06-10T21:43:31.6844724+01:00;Thread#13;Info;Successfully generated reports.
+2019-06-10T21:43:31.6854727+01:00;Thread#13;Info;Successfully generated reports
+2019-06-10T21:43:31.6934715+01:00:Total: 1
+2019-06-10T21:43:31.6944714+01:00:Succeeded: 0
+2019-06-10T21:43:31.6954716+01:00:Ignored: 0
+2019-06-10T21:43:31.6954716+01:00:Pending: 1
+2019-06-10T21:43:31.6954716+01:00:Skipped: 0
+2019-06-10T21:43:31.6964714+01:00:Failed: 0
+2019-06-10T21:43:31.7084707+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-10T21:43:31.7084707+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\raj.ghedia\Source\Repos\WTTRAJ\TestResults\Unnamed project__2019-06-10T214312.html'
+========== End of log file ==========
